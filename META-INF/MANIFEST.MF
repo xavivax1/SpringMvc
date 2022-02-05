@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: springmvc
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: E100655
+Implementation-Vendor-Id: com.formacionspring.springmvc
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://spring.io/projects/spring-boot/springmvc
+Created-By: Maven Integration for Eclipse
+
